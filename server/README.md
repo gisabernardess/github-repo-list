@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo" src="https://github.com/gisabernardess/github-repo-list/blob/main/.github/logo.svg"></p>
+    <p align="center"><img alt="logo" src="https://github.com/gisabernardess/github-repo-list/blob/main/.github/logo.svg" width="300px"></p>
     <h2>:rocket: Technologies</h2>
     <p>Server-side was developed with the following technologies:</p>
     <ul>

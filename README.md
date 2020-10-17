@@ -1,6 +1,6 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <p align="center"><img alt="logo" src="https://github.com/gisabernardess/github-repo-list/blob/main/.github/logo.svg"></p>
+    <p align="center"><img alt="logo" src="https://github.com/gisabernardess/github-repo-list/blob/main/.github/logo.svg" width="300px"></p>
     <p align="center">List your favorite GitHub repositories and see it's information and issues</p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/github-repo-list">
